@@ -1,2 +1,15 @@
-Trabajo practico integrador C# - Clinica
-Proyecto universitario con C# en visual studio 2019. Sistema para una clínica médica, la cual maneja varias especialidades. Cuenta con dos tipos de usuarios: administrador y médico. Posee LOGIN para que puedan ingresar al sistema un administrador o un médico. Maneja asignación de turnos, ABML de pacientes y médicos, e informes estadísticos
+# Sistema de Gestión para una Clínica Médica  
+Proyecto académico desarrollado en **C#** con **SQL Server**.  
+
+## Funcionalidades principales  
+- Gestión de pacientes, médicos y turnos.  
+- Acceso diferenciado para administradores y médicos.  
+
+## Tecnologías  
+- C#  
+- SQL Server  
+
+## Cómo ejecutar  
+1. Clona este repositorio: `git clone https://github.com/SofiaTMauri/Sistema-Gestion-Clinica.git`  
+2. Abre el proyecto en Visual Studio.  
+3. Configura la conexión a la base de datos.  
