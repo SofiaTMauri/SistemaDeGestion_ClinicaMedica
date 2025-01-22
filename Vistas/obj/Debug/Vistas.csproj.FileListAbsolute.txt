@@ -1,0 +1,803 @@
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\Vistas.dll.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\Vistas.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\Vistas.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\sofi1\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\carpi\Downloads\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\sofi1\OneDrive\Escritorio\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Tecnico en Programacion UTN\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.pdb
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.pdb
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.pdb
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\carpi\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll.config
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Vistas.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.exe.config
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csc.rsp
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.exe.config
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\csi.rsp
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Console.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\vbc.rsp
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Entidades.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Negocio.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\bin\Dao.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Vistas\obj\Debug\Vistas.pdb

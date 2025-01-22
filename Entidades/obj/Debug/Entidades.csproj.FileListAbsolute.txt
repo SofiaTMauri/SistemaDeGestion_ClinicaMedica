@@ -1,0 +1,30 @@
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Entidades\obj\Debug\Entidades.pdb

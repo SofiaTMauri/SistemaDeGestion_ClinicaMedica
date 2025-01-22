@@ -1,0 +1,55 @@
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.pdb
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.dll
+C:\Users\carpi\Downloads\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TIF\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.pdb
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.dll
+C:\Users\sofi1\Desktop\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Negocio.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Dao.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\bin\Debug\Entidades.pdb
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.dll
+C:\Users\sofi1\Downloads\TPINT_GRUPO_14_PR3\TPINT_GRUPO_14_PR3\TPI_Grupo14\Negocio\obj\Debug\Negocio.pdb
