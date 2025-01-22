@@ -11,5 +11,4 @@ Proyecto académico desarrollado en **C#** con **SQL Server**.
 
 ## Cómo ejecutar  
 1. Clona este repositorio: `git clone https://github.com/SofiaTMauri/Sistema-Gestion-Clinica.git`  
-2. Abre el proyecto en Visual Studio.  
-3. Configura la conexión a la base de datos.  
+2. Abre el proyecto en Visual Studio.
